@@ -1,0 +1,16 @@
+table{
+    border: 1px solid black;
+    border-spacing: 5px;
+    width: 1000px;
+    margin: auto;
+}
+th, td{
+    padding: 5px;
+    border: 1px solid black;
+}
+h4{
+    text-align: center;
+}
+.heading{
+    width: 100px;
+}
